@@ -6,6 +6,7 @@ El fin de este es demostrar nuestras habilidades utilizando shiny. Shiny es un p
 
 
 
+
 Los integrantes del grupo somos:
 
 * Luis Pedro Zenteno    -   20190516
