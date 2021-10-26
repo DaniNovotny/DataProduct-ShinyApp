@@ -4,11 +4,9 @@ Este trabajo busca demostrar nuestras habilidades en shiny apps. Es un  proyecto
 
 
 
-- Los integrantes del grupo somos:
+Los integrantes del grupo somos:
 
 * Luis Pedro Zenteno    -   20190516
-
-Luis Javier Samayoa   -   20190613
-
-Daniela Dominguez     -   20180365
+* Luis Javier Samayoa   -   20190613
+* Daniela Dominguez     -   20180365
 
