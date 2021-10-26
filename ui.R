@@ -5,6 +5,12 @@ library(shinythemes)
 library(shinydashboard)
 #install.packages("shinydashboardPlus")
 library(shinydashboardPlus)
+library(readr)
+library(lubridate)
+library(DT)
+
+c2 <- read_csv("c2.csv")
+c2$mes <- month(c2$Fecha)
 
 
 shinyUI(navbarPage(
