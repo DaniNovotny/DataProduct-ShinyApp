@@ -4,7 +4,7 @@ Este trabajo busca demostrar nuestras habilidades en shiny apps. Es un  proyecto
 
 El fin de este es demostrar nuestras habilidades utilizando shiny. Shiny es un paquete de R, que permite comunicar al usuario una historia utilizando cierta data en especifico, permitiendole a este interactuar con el analisis que nosotros hayamos realizado.
 
-
+Para acceder a la publicacion: ingresar al siguiente link: https://danielanovotny.shinyapps.io/parcial2/
 
 
 Los integrantes del grupo somos:
